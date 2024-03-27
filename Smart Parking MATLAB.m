@@ -33,10 +33,6 @@ writeDigitalPin (a, LED_Red,1); %default red light on for restrict the vehicle
  pause(1); 
  clearLCD(lcd);
  
- printLCD(lcd,'2) Gururaja S R');
-
- pause(1);
- clearLCD(lcd);
  
 % set up the pin position and assign the modes
 
